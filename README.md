@@ -65,4 +65,4 @@ I'm a `24` year old (`⏳ next birthday in 5 days ⌛️`) **full stack web deve
 
 ## About this README.md 📄
 
-Last updated on `11/7/2023` ~~by hand~~ **by my homemade `exceptional` bot** 🤖.
+Last updated on `11/7/2023` ~~by hand~~ **by my homemade `fantastic` bot** 🤖.
