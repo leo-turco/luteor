@@ -32,8 +32,6 @@ jobs:
         with:
           author_name: ${{ secrets.GH_USERNAME }}
           author_email: ${{ secrets.GH_MAIL }}
-          force: false
-          signoff: false
           message: ":robot: README.md updated"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
