@@ -1,0 +1,39 @@
+name: Daily update of README.md
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "44 4 * * *"
+
+jobs:
+  update-readme:
+    strategy:
+      matrix:
+        node-version: [20.x]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to update README
+        run: node index.js
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: "${{ secrets.GH_USERNAME }}"
+          author_email: "${{ secrets.GH_MAIL }}"
+          force: false
+          signoff: false
+          message: ":robot: README.md updated"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
