@@ -13,12 +13,10 @@ I'm a `24` year old (`⏳ next birthday in 5 days ⌛️`) **full stack web deve
 - 🛠️ Passionate about the complementarity of front-end and back-end technologies to solve problems by developing applications from scratch.
 - 🚀 Eager to continually learn and improve skills through personal or professional projects alone or with other developers, so contact me if you feel like it!
 
-### Contact
+#### Contact
 
 [![LinkedIn Logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat)](https://www.linkedin.com/in/leoturco/)
 [![Gmail Logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat)](mailto:leo.turco.83@gmail.com)
-
----
 
 ## Technical Stack
 
@@ -53,8 +51,6 @@ I'm a `24` year old (`⏳ next birthday in 5 days ⌛️`) **full stack web deve
 ![Adobe Photoshop](https://skillicons.dev/icons?i=ps)
 ![Adobe Illustrator](https://skillicons.dev/icons?i=ai)
 
----
-
 ## GitHub Stats
 
 #### Visitor counter
@@ -65,10 +61,8 @@ I'm a `24` year old (`⏳ next birthday in 5 days ⌛️`) **full stack web deve
 
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=luteor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
-![Streak Graph](https://streak-stats.demolab.com?user=luteor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)
+<!-- ![Streak Graph](https://streak-stats.demolab.com?user=luteor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3) -->
 
----
+## About this README.md 📄
 
-#### About this README.md 📄
-
-Last updated on `07/11/2023` ~~by hand~~ **by my homemade `fantastic` bot** 🤖.
+Last updated on `07/11/2023` ~~by hand~~ **by my homemade `amazing` bot** 🤖.
