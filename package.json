@@ -1,0 +1,11 @@
+{
+  "name": "luteor",
+  "version": "1.0.0",
+  "description": "I'm a `{{age}}` year old (`{{days_remaining_before_next_birthday}}`) **full stack web developer** 👨‍💻 with a versatile profile forged by a **holistic vision of the digital professional world**, and convinced of the importance of **curiosity** and **continuous learning**.",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "author": "luteor",
+  "license": "ISC"
+}
