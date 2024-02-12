@@ -2,14 +2,14 @@
 
 > **Full stack JavaScript developer ⚡️**
 
-I'm a `25` year old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **full stack web developer** 👨‍💻 with a versatile profile forged by a **holistic vision of the digital professional world**, and convinced of the importance of **curiosity** and **continuous learning**.
+I'm a `25` year old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **full stack web developer** 👨‍💻 with a versatile profile influenced by a **holistic vision of the professional world**, and convinced of the importance of **curiosity** and **continuous learning**.
 
 ## About Me
 
 - 🎓 Graduated in web development full stack, in digital creation specialized in UX/UI Design and in marketing, communication and management techniques.
 - 💼 Professional experiences as a UX/UI Designer - Graphic Designer and Product Owner - Digital E-commerce Project Manager.
-- 🎨 Attracted by front-end development for its link with UX/UI Design - Graphic Design and its growing complexity with the evolution of logic and data processing.
-- 🔐 Interested in back-end development to exercise precise control over data management, ensure application security and create reliable solutions.
+- 🎨 Attracted by front-end development for its link with UX/UI Design and its growing complexity with the evolution of logic and data processing.
+- 🔐 Interested in back-end development to exercise precise control over data management, ensure application security and reliability.
 - 🛠️ Passionate about the complementarity of front-end and back-end technologies to solve problems by developing applications from scratch.
 - 🚀 Eager to continually learn and improve skills through personal or professional projects alone or with other developers, so contact me if you feel like it!
 
@@ -22,27 +22,29 @@ I'm a `25` year old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **full 
 
 #### Front-end
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Vite](https://skillicons.dev/icons?i=vite)
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
-![Vite](https://skillicons.dev/icons?i=vite)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+
+<!-- ![HTML5](https://skillicons.dev/icons?i=html) -->
+<!-- ![CSS3](https://skillicons.dev/icons?i=css) -->
+<!-- ![Sass](https://skillicons.dev/icons?i=sass) -->
 
 #### Back-end
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
 ![Sequelize](https://skillicons.dev/icons?i=sequelize)
 
-#### Testing
+<!-- ![Redis](https://skillicons.dev/icons?i=redis) -->
 
-![Jest](https://skillicons.dev/icons?i=jest)
+<!-- #### Testing -->
+
+<!-- ![Jest](https://skillicons.dev/icons?i=jest) -->
 
 #### Design
 
@@ -51,7 +53,7 @@ I'm a `25` year old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **full 
 ![Adobe Photoshop](https://skillicons.dev/icons?i=ps)
 ![Adobe Illustrator](https://skillicons.dev/icons?i=ai)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 #### Visitor counter
 
@@ -61,8 +63,8 @@ I'm a `25` year old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **full 
 
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=luteor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 
-<!-- ![Streak Graph](https://streak-stats.demolab.com?user=luteor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3) -->
+![Streak Graph](https://streak-stats.demolab.com?user=luteor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3) -->
 
 ## About this README.md 📄
 
-Last updated on `2/12/2024` ~~by hand~~ **by my homemade `amazing` bot** 🤖.
+Last updated on `2/12/2024` ~~by hand~~ **by my homemade `exceptional` bot** 🤖.
