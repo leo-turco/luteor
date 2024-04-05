@@ -22,15 +22,16 @@ I'm a `{{age}}` year old (`{{days_remaining_before_next_birthday}}`) French 🥐
 
 #### Front-end
 
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![React](https://skillicons.dev/icons?i=react)
 ![Redux](https://skillicons.dev/icons?i=redux)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 
-<!-- ![HTML5](https://skillicons.dev/icons?i=html) -->
-<!-- ![CSS3](https://skillicons.dev/icons?i=css) -->
 <!-- ![Sass](https://skillicons.dev/icons?i=sass) -->
 
 #### Back-end
