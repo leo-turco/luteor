@@ -2,7 +2,7 @@
 
 > **Full stack JavaScript developer ⚡️**
 
-I'm a `26` year old (`⏳ next birthday in 360 days ⌛️`) French 🥐 **full stack web developer** 👨‍💻 with a versatile profile influenced by a **holistic vision of the professional world**, and convinced of the importance of **curiosity** and **continuous learning**.
+I'm a `26` year old (`⏳ next birthday in 359 days ⌛️`) French 🥐 **full stack web developer** 👨‍💻 with a versatile profile influenced by a **holistic vision of the professional world**, and convinced of the importance of **curiosity** and **continuous learning**.
 
 ## About Me
 
@@ -68,4 +68,4 @@ I'm a `26` year old (`⏳ next birthday in 360 days ⌛️`) French 🥐 **full 
 
 ## About this README.md 📄
 
-Last updated on `11/17/2024` ~~by hand~~ **by my homemade `extraordinary` bot** 🤖.
+Last updated on `11/18/2024` ~~by hand~~ **by my homemade `incredible` bot** 🤖.
