@@ -2,7 +2,7 @@
 
 > **Product Manager ⚡️**
 
-I'm a `26`-year-old (`⏳ next birthday in 275 days ⌛️`) French 🥐 **Product Manager** 👨‍💻 with a diverse skill set, blending **Tech**, **UX**, and **Business** to build impactful products. Driven by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic perspective**.
+I'm a `26`-year-old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **Product Manager** 👨‍💻 with a diverse skill set, blending **Tech**, **UX**, and **Business** to build impactful products. Driven by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic perspective**.
 
 ## About Me
 
@@ -68,4 +68,4 @@ I'm a `26`-year-old (`⏳ next birthday in 275 days ⌛️`) French 🥐 **Produ
 
 ## About this README.md 📄
 
-Last updated on `2/10/2025` ~~by hand~~ **by my homemade `terrific` bot** 🤖.
+Last updated on `2/11/2025` ~~by hand~~ **by my homemade `dazzling` bot** 🤖.
