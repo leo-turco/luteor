@@ -2,14 +2,14 @@
 
 > **Product Manager ⚡️** Tech-Driven | UX-Focused | Business-Savvy
 
-I'm a `26`-year-old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **Product Manager** 👨‍💻 with **cross-functional skills**, blending **Tech**, **UX**, and **Business** to solve complex problems and drive high-impact outcomes. Fueled by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic, user-first mindset**.
+I'm a `26`-year-old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **Product Manager** 👨‍💻 with **cross-functional skills**, blending **Tech**, **UX**, and **Business** to solve complex problems and deliver high-impact outcomes. Fueled by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic, user-first mindset**.
 
 ## About Me
 
-- 🎓 **Master’s in Digital Creation**, focused on **UX/UI Design**, backed by a solid foundation in **Business principles**.
+- 🎓 **Master’s in Digital Creation**, focused on **UX/UI Design**, with a solid foundation in **Business principles**.
 - 💼 Hands-on experience in diverse roles, **UX/UI Designer - Graphic Designer**, and **Product Owner – Digital E-commerce Project Manager**, shaping a **cross-functional** and **data-driven** approach.
-- 💻 Certified **Full-Stack Web and Mobile Developer**, having completed a 6-month **bootcamp** in **JavaScript**, honing **technical fluency** and optimizing **collaboration** across product and engineering teams.
-- 🚀 Passionate about **Product Management**, leveraging deep expertise in **Tech**, **UX**, and **Business** to build scalable, user-centric, and impactful solutions.
+- 💻 Certified **Full-Stack Web and Mobile Developer**, completing a 6-month **JavaScript bootcamp**, honing **technical fluency** and optimizing **collaboration** across **product** and **engineering teams**.
+- 🚀 Passionate about **Product Management**, leveraging deep expertise in **Tech**, **UX**, and **Business** to build **scalable**, **user-centric**, and **impactful solutions**.
 - 🔄 Proven track record of driving the full **product lifecycle**, from **discovery** to **delivery**, ensuring alignment with **stakeholders**.
 
 #### Contact
@@ -68,4 +68,4 @@ I'm a `26`-year-old (`⏳ next birthday in 274 days ⌛️`) French 🥐 **Produ
 
 ## About this README.md 📄
 
-Last updated on `2/11/2025` ~~by hand~~ **by my homemade `fantastic` bot** 🤖.
+Last updated on `2/11/2025` ~~by hand~~ **by my homemade `exceptional` bot** 🤖.
