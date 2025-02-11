@@ -1,16 +1,16 @@
 # Hello World! I'm Léo 👋
 
-> **Product Manager ⚡️**
+> **Product Manager ⚡️** Tech-Driven | UX-Focused | Business-Savvy
 
-I'm a `{{age}}`-year-old (`{{days_remaining_before_next_birthday}}`) French 🥐 **Product Manager** 👨‍💻 with a diverse skill set, blending **Tech**, **UX**, and **Business** to build impactful products. Driven by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic perspective**.
+I'm a `{{age}}`-year-old (`{{days_remaining_before_next_birthday}}`) French 🥐 **Product Manager** 👨‍💻 with **cross-functional skills**, blending **Tech**, **UX**, and **Business** to solve complex problems and drive high-impact outcomes. Fueled by **curiosity** and a passion for **continuous learning**, I approach product development with a **holistic, user-first mindset**.
 
 ## About Me
 
-- 🎓 Master’s degree in Digital Creation, specializing in UX/UI Design, built on a strong academic foundation.
-- 💼 Background in multiple roles, including UX/UI Designer - Graphic Designer, and Product Owner – Digital E-commerce Project Manager, equipping me with a versatile skill set to address complex digital challenges.
-- 💻 Completed an intensive 6-month full-stack JavaScript bootcamp, earning certification as a “Web and Mobile Developer,” with a strong technical foundation and effective collaboration with engineering teams.
-- 🚀 Passionate about Product Management, combining expertise in Tech, UX, and Business to build user-focused, feasible, and sustainable products.
-- 🔄 Experienced in overseeing the full product lifecycle, working closely with all stakeholders to align strategy, execution, and impact.
+- 🎓 **Master’s in Digital Creation**, focused on **UX/UI Design**, backed by a solid foundation in **Business principles**.
+- 💼 Hands-on experience in diverse roles, **UX/UI Designer - Graphic Designer**, and **Product Owner – Digital E-commerce Project Manager**, shaping a **cross-functional** and **data-driven** approach.
+- 💻 Certified **Full-Stack Web and Mobile Developer**, having completed a 6-month **bootcamp** in **JavaScript**, honing **technical fluency** and optimizing **collaboration** across product and engineering teams.
+- 🚀 Passionate about **Product Management**, leveraging deep expertise in **Tech**, **UX**, and **Business** to build scalable, user-centric, and impactful solutions.
+- 🔄 Proven track record of driving the full **product lifecycle**, from **discovery** to **delivery**, ensuring alignment with **stakeholders**.
 
 #### Contact
 
